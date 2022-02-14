@@ -52,3 +52,4 @@
 *://62.234.115.194/*
 *://www.diglog.com/*
 *://blog.51cto.com/topic*
+*://shengqian001.com/*
