@@ -14250,7 +14250,6 @@
 *://www.ahafm.com/*
 *://www.rbcty.com/*
 *://www.its301.com/*
-*://e.jd.com/*
 *://www.svnfc.com/*
 *://www.fhsas.com/*
 *://www.aoieasydesigner.com/*
@@ -14265,5 +14264,9 @@
 *://programminghunter.com/*
 *://62.234.115.194/*
 *://www.diglog.com/*
-*://blog.51cto.com/topic*
 *://shengqian001.com/*
+*://blog.51cto.com/topic*
+*://www.csdn.net/tags/*
+*://www.taobao.com/list/*
+*://e.jd.com/*
+*://z.sogou.com/*
