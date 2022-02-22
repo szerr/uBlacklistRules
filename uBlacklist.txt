@@ -1,3 +1,5 @@
+*://g9.baidu.com/*
+*://www.manongbook.com/*
 *://*.hsxlmj.com/*
 *://*.post01.com/*
 *://*.edc1014077.pixnet.net/*
