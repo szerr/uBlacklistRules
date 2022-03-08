@@ -1,3 +1,4 @@
+*://bbs.csdn.net/topics/*
 *://www.pdffsy.com/*
 *://www.cfpsf.com/*
 *://www.tyniu.com/*
