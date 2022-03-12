@@ -1,3 +1,4 @@
+*://www.joyk.com/*
 *://www.zhihu.com/topic/*
 *://bbs.csdn.net/topics/*
 *://www.pdffsy.com/*
