@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 *://cdmana.com/*
-=======
 *://www.joyk.com/*
 *://www.zhihu.com/topic/*
 *://bbs.csdn.net/topics/*
@@ -15,7 +13,6 @@
 *://www.bbsmax.com/*
 *://www.nwkab.com/*
 *://*.baidu.com/s?*
->>>>>>> 2ed6d023c60c008a5ebdbbc610e0f097ce24af9c
 *://www.luz5.com/*
 *://www.sygdb.com.cn/*
 *://www.yueqijiaocheng.com/*
