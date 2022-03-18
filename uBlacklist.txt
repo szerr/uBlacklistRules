@@ -14235,7 +14235,6 @@
 *://*.81823333.com/*
 *://*.y0q0y2kmi4.blog.fc2.com/*
 
-*://blog.csdn.net/*
 *://vimsky.com/*
 *://www.cxymm.net/*
 *://www.cxyzjd.com/*
