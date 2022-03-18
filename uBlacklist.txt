@@ -14291,3 +14291,5 @@
 *://www.taobao.com/list/*
 *://e.jd.com/*
 *://z.sogou.com/*
+*://pdffree.cn/*
+*://ebook365.org/*
