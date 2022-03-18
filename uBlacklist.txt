@@ -14250,7 +14250,6 @@
 *://www.duboot.com/*
 *://www.geek-share.com/*
 *://www.codenong.com/*
-*://www.cnblogs.com/*
 *://cainiaojiaocheng.com/*
 *://cloud.tencent.com/*
 *://qa.1r1g.com/*
