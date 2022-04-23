@@ -14336,3 +14336,7 @@
 *://www.wandouip.com/*
 *://www.newsvoting.com/*
 *://www.baishutxt.com/*
+*://topbester.com/*
+*://blog.csdn.net/*
+*://its401.com/*
+*://icode9.com/*
