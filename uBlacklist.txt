@@ -14288,7 +14288,6 @@
 *://www.geek-share.com/*
 *://www.codenong.com/*
 *://cainiaojiaocheng.com/*
-*://cloud.tencent.com/*
 *://qa.1r1g.com/*
 *://www.cnpython.com/*
 *://mos86.com/*
