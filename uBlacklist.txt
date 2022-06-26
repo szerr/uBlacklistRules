@@ -1,3 +1,6 @@
+@*://cloud.tencent.com/*
+*://qa.icopy.site/*
+*://www.chinaz.com/*
 *://www.opsask.com/*
 *://*.rssing.com/*
 *://www.wanweibaike.net/*
