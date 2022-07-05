@@ -1,4 +1,10 @@
-@*://cloud.tencent.com/*
+*://www.lxbook.net/*
+*://www.nowcoder.com/*
+*://adatiya.com/*
+*://www.moidea.cn/*
+*://m.toutiao.com/search*
+*://developpaper.com/*
+*://cloud.tencent.com/*
 *://qa.icopy.site/*
 *://www.chinaz.com/*
 *://www.opsask.com/*
