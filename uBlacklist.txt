@@ -1,3 +1,14 @@
+*://0xzx.com/*
+*://www.ruten.com.tw/*
+*://biggo.com.tw/*
+*://www.oschina.net/informat/*
+*://www.muzijie.com/*
+*://www.finclip.com/*
+*://www.baike.com/*
+*://www.flanamy.com/*
+*://www.jd.com/*
+*://www.3h3.com/*
+*://jingyan.baidu.com/*
 *://www.xincanshu.com/*
 *://www.ddzimu.com/*
 *://www.grab4k.com/*
@@ -16,7 +27,6 @@
 *://www.xincanshu.com/*
 *://www.ddzimu.com/*
 *://www.grab4k.com/*
-*://book.jd.com/*
 *://www.bajiaoyingshi.com/*
 *://www.lehuotuan.com/*
 *://www.zhaoqiansunli.com.cn/*
