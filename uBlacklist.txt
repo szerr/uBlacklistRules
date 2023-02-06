@@ -1,3 +1,4 @@
+*://search.bilibili.com/*
 *://www.ape-flac.com/*
 *://0xzx.com/*
 *://www.ruten.com.tw/*
