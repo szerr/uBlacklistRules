@@ -1,3 +1,8 @@
+*://item.jd.com/*
+*://www.toutiao.com/*
+*://wow.17173.com/*
+*://blog.csdn.net/*
+*://recomm.cnblogs.com/*
 *://cloud.tencent.com/developer/*
 *://list-chaoshi.jd.com/*
 *://www.douyin.com/*
